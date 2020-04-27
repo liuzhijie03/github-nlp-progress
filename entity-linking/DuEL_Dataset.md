@@ -31,8 +31,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | 
-    | chinese_entity_linking | 1037条人工标注的短文本语料 | 2017年 | Bo Xu, Yong Xu, Jiaqing Liang, etc. | Shanghai Key Laboratory of Data Science, School of Computer Science,
-Fudan University, Shanghai, China | [链接](http://www.xumenger.com/download/20180820/CN-DBpedia-System.pdf) | [链接](https://github.com/clhisawolfman/chinese_entity_linking)| 
+    | chinese_entity_linking | 1037条人工标注的短文本语料 | 2017年 | Bo Xu, Yong Xu, Jiaqing Liang, etc. | Shanghai Key Laboratory of Data Science, School of Computer Science, Fudan University, Shanghai, China | [链接](http://www.xumenger.com/download/20180820/CN-DBpedia-System.pdf) | [链接](https://github.com/clhisawolfman/chinese_entity_linking)| 
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, and Yanghua Xiao. CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System. In International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, pp. 428-438. Springer, Cham, 2017.

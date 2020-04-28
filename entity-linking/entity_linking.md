@@ -17,7 +17,7 @@
 
 ### 2. KBP 2017 EDL
 - <strong>数据集简介：</strong>
-    该数据集来源于TAC-KBP2017评测任务，任务目标是在英语、中文、西班牙三个语种上的实体发现，并将它们链接到英文知识库（KB）。该任务还需要对没有相应KB条目的NIL实体的mention进行聚类。数据源包含90000篇章，并从中筛选500篇章进行人工标注并用于评估。
+    该数据集来源于TAC-KBP2017评测任务，任务目标是在英语、中文、西班牙三个语种上进行实体发现，并将它们链接到英文知识库（KB）。该任务还需要对没有相应KB条目的NIL实体的mention进行聚类。数据源包含90000篇章，并从中筛选500篇章进行人工标注并用于评估。
     
 - <strong>数据集详情：</strong>
 
@@ -26,8 +26,7 @@
     | KBP 2017 EDL | 9w篇章 | 2017年 | N/A | N/A | [链接](http://www.xumenger.com/download/20180820/CN-DBpedia-System.pdf) | [链接](http://nlp.cs.rpi.edu/kbp/2017/)| [KBP2017 Entity Discovery and Linking](http://nlp.cs.rpi.edu/kbp/2017/)
 
 - <strong>基于该数据集发表的相关论文：</strong>
-    - Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, and Yanghua Xiao. CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System. In International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, pp. 428-438. Springer, Cham, 2017.
-
+    - 
 
 ### 3. 知识工厂数据集
 - <strong>数据集简介：</strong>

@@ -9,7 +9,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | DuEL_Dataset |10w短文本，39w实体 | 2019年 |百度 | 百度 | N/A | [链接](https://biendata.com/competition/ccks_2020_el/data/)| [CCKS 2019: 面向中文短文本的实体链指任务](https://biendata.com/competition/ccks_2019_el//）|
+    | DuEL_Dataset |10w短文本，39w实体 | 2019年 |百度 | 百度 | N/A | [链接](https://biendata.com/competition/ccks_2020_el/data/)| [CCKS 2019: 面向中文短文本的实体链指任务](https://biendata.com/competition/ccks_2019_el/)|
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - 论文待明确

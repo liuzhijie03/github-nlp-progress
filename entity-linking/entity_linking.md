@@ -26,7 +26,7 @@
     | KBP 2017 EDL | 9w篇章 | 2017年 | N/A | N/A | [链接](http://www.xumenger.com/download/20180820/CN-DBpedia-System.pdf) | [链接](http://nlp.cs.rpi.edu/kbp/2017/)| [KBP2017 Entity Discovery and Linking](http://nlp.cs.rpi.edu/kbp/2017/)
 
 - <strong>基于该数据集发表的相关论文：</strong>
-    - 
+    - 详见：http://nlp.cs.rpi.edu/kbp/2019/elreading.html
 
 ### 3. 知识工厂数据集
 - <strong>数据集简介：</strong>

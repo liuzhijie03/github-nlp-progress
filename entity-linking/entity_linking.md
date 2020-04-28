@@ -17,6 +17,17 @@
 
 ### 2. KBP 2017 EDL
 - <strong>数据集简介：</strong>
+    该数据集来源于TAC-KBP2017评测任务，任务目标是在英语、中文、西班牙三个语种上的实体发现，并将它们链接到英文知识库（KB）。该任务还需要对没有相应KB条目的NIL实体的mention进行聚类。数据源包含90000篇章，并从中筛选500篇章进行人工标注并用于评估。
+    
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: | 
+    | KBP 2017 EDL | 9w篇章 | 2017年 | N/A | N/A | [链接](http://www.xumenger.com/download/20180820/CN-DBpedia-System.pdf) | [链接](http://nlp.cs.rpi.edu/kbp/2017/)| [KBP2017 Entity Discovery and Linking](http://nlp.cs.rpi.edu/kbp/2017/)
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, and Yanghua Xiao. CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System. In International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, pp. 428-438. Springer, Cham, 2017.
+
 
 ### 3. 知识工厂数据集
 - <strong>数据集简介：</strong>
@@ -38,7 +49,7 @@
 ### 4. NLPCC 2015
 - <strong>数据集简介：</strong>
 
-    该任务来自NLPCC 2015评测任务，该任务的目标是对短queries中的实体进行识别并链接到对应的中文知识库中。本数据集包括一个中文知识库，该知识库来自各类中文百科的信息框，包括中文维基百科和百度百科。该数据集还包括每个实体页面的第一段作为该实体的摘要。这个知识库不可避免地含有部分噪音数据，但是相对容易访问，并且确实为每个实体提供了一个相对结构化的描述信息。有关该任务和数据集详细描述请见NLPCC 2015 Shared Task：http://tcci.ccf.org.cn/conference/2015/pages/page05_evadata.html
+    该数据集来自NLPCC 2015评测任务，任务目标是对短queries中的实体进行识别并链接到对应的中文知识库中。其中中文知识库来自于各类中文百科的信息框，包括中文维基百科和百度百科，知识库每个实体页面的第一段作为该实体的摘要，不可避免地含有部分噪音数据，但是相对容易访问，并为每个实体提供了一个相对结构化的描述信息。有关该任务和数据集详细描述请见NLPCC 2015 Shared Task：http://tcci.ccf.org.cn/conference/2015/pages/page05_evadata.html
     
 - <strong>数据集详情：</strong>
 

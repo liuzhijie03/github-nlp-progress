@@ -54,7 +54,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: | 
-    | 2015 entity linking in search query | N/A | 2015年 | Feng Y., Han Z., Zhang K.  | CFF | [链接](https://link.springer.com/chapter/10.1007/978-3-319-25207-0_51) | [链接](https://biendata.com/ccf_tcci2018/datasets/tcci_tag/2)| [NLPCC 2015](http://tcci.ccf.org.cn/conference/2015/pages/page05_evadata.html) |
+    | 2015 entity linking in search query | N/A | 2015年 | Feng Y., Han Z., Zhang K.  | CCF | [链接](https://link.springer.com/chapter/10.1007/978-3-319-25207-0_51) | [链接](https://biendata.com/ccf_tcci2018/datasets/tcci_tag/2)| [NLPCC 2015](http://tcci.ccf.org.cn/conference/2015/pages/page05_evadata.html) |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Feng Y., Han Z., Zhang K. (2015) Overview of the NLPCC 2015 Shared Task: Entity Recognition and Linking in Search Queries. In: Li J., Ji H., Zhao D., Feng Y. (eds) Natural Language Processing and Chinese Computing. Lecture Notes in Computer Science, vol 9362. Springer, Cham
